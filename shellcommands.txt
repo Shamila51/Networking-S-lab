@@ -1,0 +1,168 @@
+Welcome to new user mca 
+[mca@localhost ~]$ ls -l
+total 224
+drwxr-xr-x. 2 mca mca    66 Apr 10  2023  10.04.2023
+drwxrwxr-x. 2 mca mca     6 Apr 13  2022  18.new
+-rw-r--r--. 1 mca mca  6328 Dec 15  2022  6dsp.txt
+-rwxrwxr-x. 1 mca mca 18104 Jul 26  2022  a.out
+-rwxrw-r--. 1 mca mca   100 May 17  2022  Argscript.sh
+-rwxrwxr-x. 1 mca mca   197 May 10  2022  arithmticop.sh
+-rwxrwxr-x. 1 mca mca   144 Jun 14  2022  array.sh
+-rw-r--r--. 1 mca mca  2923 Jun 10  2022  assignmnt2
+-rwxrwxr-x. 1 mca mca   774 Jun 15  2023  chng.sh
+-rwxrwxr-x. 1 mca mca   217 Jun 26  2023  cmp.sh
+-rw-rw-r--. 1 mca mca   330 Jul 26  2022  concatenate.c
+-rwxrwxr-x. 1 mca mca   222 May 10  2022  counting
+-rw-rw-r--. 1 mca mca     0 Jun  9  2022  counting.sh
+-rwxrwxr-x. 1 mca mca   255 Jun  9  2022  count.sh
+drwxr-xr-x. 8 mca mca   164 Jun 13  2023  Desktop
+drwxr-xr-x. 9 mca mca   195 Oct  9 07:02  Documents
+drwxr-xr-x. 5 mca mca  4096 Jul 22  2023  Downloads
+-rw-rw-r--. 1 mca mca     0 Mar 14  2023  ds.txt
+-rwxrwxr-x. 1 mca mca   149 Apr 29  2022  elifpgm.sh
+-rwxrwxr-x. 1 mca mca   143 May  7  2022  evenorodd.sh
+-rwxrwxr-x. 1 mca mca    68 May  7  2022  expression.sh
+-rwxrwxr-x. 1 mca mca    69 May 17  2022  extension.sh
+-rwxrwxr-x. 1 mca mca   213 May 10  2022  factfun.sh
+-rwxrwxr-x. 1 mca mca   151 Apr 26  2022  factorial.sh
+-rwxrwxr-x. 1 mca mca   826 May 10  2022  fileoprtor.sh
+-rwxrwxr-x. 1 mca mca    99 Apr 26  2022  forfact.sh
+-rwxrwxr-x. 1 mca mca    72 Apr 29  2022  foundnum
+-rwxrwxr-x. 1 mca mca   205 Jun  9  2022  greatest.sh
+-rwxrwxr-x. 1 mca mca   272 May  7  2022  greeting.sh
+-rwxrwxr-x. 1 mca mca   133 Apr 29  2022  gretest.sh
+-rwxrwxr-x. 1 mca mca   122 Jul 12  2022  hello.sh
+drwxrwxr-x. 2 mca mca    88 May 17  2022  lab
+-rw-r--r--. 1 mca mca  2507 Dec 15  2022  linkedlist.txt
+-rwxrwxr-x. 1 mca mca   182 Jun 14  2022  list.sh
+drwxrwxr-x. 7 mca mca    58 Mar 14  2023  MES
+drwxrwxr-x. 4 mca mca  4096 Jul 21  2023  mongodata
+drwxr-xr-x. 4 mca mca  4096 Aug 22 03:07  mongodata1
+drwxr-xr-x. 4 mca mca  4096 Aug 22 02:04  mongodata2
+drwxr-xr-x. 4 mca mca  4096 Aug 22 02:04  mongodata3
+drwxr-xr-x. 3 mca mca    26 Aug 22  2022  Music
+drwxr-xr-x. 2 mca mca     6 Apr  7  2022 'netwrk lab'
+-rw-r--r--. 1 mca mca  1509 Jun 14  2022  netwrklab
+-rw-rw-r--. 1 mca mca   704 Mar 13  2023  new3.sh
+-rw-rw-r--. 1 mca mca   144 Mar 13  2023  new4.txt
+-rw-r--r--. 1 mca mca    65 Jun 22  2018  notes
+-rw-r--r--. 1 mca mca  2972 Jun 10  2022  output_assignmnt2
+-rw-r--r--. 1 mca mca  4846 Jun 10  2022  output_assignmnt4
+-rw-r--r--. 1 mca mca  2169 Jun 10  2022  output_assinmnt3
+-rwxrwxr-x. 1 mca mca   334 May  7  2022  palindrome.sh
+-rwxrwxr-x. 1 mca mca   582 May 17  2022  password.sh
+drwxr-xr-x. 3 mca mca  4096 Aug 22 03:05  Pictures
+-rwxrwxr-x. 1 mca mca   350 Apr 26  2022  program1.sh
+drwxr-xr-x. 2 mca mca     6 Apr  7  2022  Public
+-rw-r--r--. 1 mca mca  1076 Nov 25 01:30  queue.txt
+-rwxrwxr-x. 1 mca mca   704 Mar 13  2023  rpl.sh
+-rw-r--r--. 1 mca mca  1128 Apr 19  2023  r.txt
+-rw-rw-r--. 1 mca mca  1501 May  6  2022  soorya.txt
+-rw-rw-r--. 1 mca mca    13 Jun 19  2023  subdr.sh
+-rwxrwxrwx. 1 mca mca   190 Oct 18  2022  sum.c
+-rwxrwxr-x. 1 mca mca   163 Apr 29  2022  sumofdigts
+drwxr-xr-x. 2 mca mca     6 Apr  7  2022  Templates
+-rwxrwxr-x. 1 mca mca   302 Jun 14  2022  three.sh
+d-wx--x--x. 2 mca mca     6 Apr  7  2022  Videos
+[mca@localhost ~]$ ls -i
+134489074  10.04.2023          17084  linkedlist.txt
+268581790  18.new              28398  list.sh
+    40517  6dsp.txt            27632  MES
+    27613  a.out           134777103  mongodata
+    16355  Argscript.sh        17077  mongodata1
+    14445  arithmticop.sh  135909762  mongodata2
+    27620  array.sh        268621423  mongodata3
+    14429  assignmnt2      134217881  Music
+    60428  chng.sh         134217912 'netwrk lab'
+    88924  cmp.sh              28403  netwrklab
+    36012  concatenate.c       27638  new3.sh
+    16325  counting            27641  new4.txt
+    27627  counting.sh         16373  notes
+    27625  count.sh            27611  output_assignmnt2
+      156  Desktop             27600  output_assignmnt4
+      157  Documents            9743  output_assinmnt3
+134217880  Downloads           27630  palindrome.sh
+    28004  ds.txt              27610  password.sh
+    16342  elifpgm.sh      268580819  Pictures
+    16320  evenorodd.sh         9764  program1.sh
+    27631  expression.sh   402653333  Public
+    27609  extension.sh        40520  queue.txt
+    16345  factfun.sh          27622  rpl.sh
+     9766  factorial.sh        15688  r.txt
+    16343  fileoprtor.sh        9739  soorya.txt
+     9768  forfact.sh          60446  subdr.sh
+    16348  foundnum             8115  sum.c
+    27626  greatest.sh         16376  sumofdigts
+    16327  greeting.sh     268580818  Templates
+    16344  gretest.sh          28401  three.sh
+    27617  hello.sh        402653334  Videos
+268580849  lab
+[mca@localhost ~]$ ls -f
+ .               lab               sumofdigts          evenorodd.sh
+ ..              list.sh           linkedlist.txt      fileoprtor.sh
+ .mozilla        sum.c             palindrome.sh       arithmticop.sh
+ .bash_logout    .git              expression.sh       netwrklab
+ .bash_profile   soorya.txt        factfun.sh          concatenate.c
+ .bashrc         .ssh              counting            array.sh
+ .zshrc          greeting.sh       hello.sh            mongodata
+ .config         new4.txt          extension.sh        .dbshell
+ .esd_auth       18.new            .extension.sh.swp   counting.sh
+ .ICEauthority   Argscript.sh      count.sh            output_assignmnt2
+ .local          password.sh       assignmnt2          ds.txt
+ .cache          .mongorc.js       output_assinmnt3    MES
+ Desktop         .list.sh.swp      output_assignmnt4   .gitconfig.swp
+ Downloads       a.out             rpl.sh              chng.sh
+ Templates       .vnc              .viminfo            mongodata1
+ Public          queue.txt         factorial.sh        r.txt
+ Documents       greatest.sh       .yourflag           subdr.sh
+ Music           6dsp.txt          three.sh            mongodata2
+ Pictures        .swp              new3.sh             mongodata3
+ Videos          forfact.sh        foundnum            10.04.2023
+ .pki            program1.sh       gretest.sh          notes
+ .bash_history   elifpgm.sh        .fibo.sh.swp        .gitconfig
+'netwrk lab'     .elifpgm.sh.swp   .mysql_history      cmp.sh
+[mca@localhost ~]$ ls -s
+total 224
+ 0  10.04.2023       4  Downloads       4  linkedlist.txt      4  palindrome.sh
+ 0  18.new           0  ds.txt          4  list.sh             4  password.sh
+ 8  6dsp.txt         4  elifpgm.sh      0  MES                 4  Pictures
+20  a.out            4  evenorodd.sh    4  mongodata           4  program1.sh
+ 4  Argscript.sh     4  expression.sh   4  mongodata1          0  Public
+ 4  arithmticop.sh   4  extension.sh    4  mongodata2          4  queue.txt
+ 4  array.sh         4  factfun.sh      4  mongodata3          4  rpl.sh
+ 4  assignmnt2       4  factorial.sh    0  Music               4  r.txt
+ 4  chng.sh          4  fileoprtor.sh   0 'netwrk lab'         4  soorya.txt
+ 4  cmp.sh           4  forfact.sh      4  netwrklab           4  subdr.sh
+ 4  concatenate.c    4  foundnum        4  new3.sh             4  sum.c
+ 4  counting         4  greatest.sh     4  new4.txt            4  sumofdigts
+ 0  counting.sh      4  greeting.sh     4  notes               0  Templates
+ 4  count.sh         4  gretest.sh      4  output_assignmnt2   4  three.sh
+ 0  Desktop          4  hello.sh        8  output_assignmnt4   0  Videos
+ 0  Documents        0  lab             4  output_assinmnt3
+[mca@localhost ~]$ ls -a
+ .                Desktop             hello.sh            output_assinmnt3
+ ..               Documents           .ICEauthority       palindrome.sh
+ 10.04.2023       Downloads           lab                 password.sh
+ 18.new           ds.txt              linkedlist.txt      Pictures
+ 6dsp.txt         elifpgm.sh          list.sh             .pki
+ a.out            .elifpgm.sh.swp     .list.sh.swp        program1.sh
+ Argscript.sh     .esd_auth           .local              Public
+ arithmticop.sh   evenorodd.sh        MES                 queue.txt
+ array.sh         expression.sh       mongodata           rpl.sh
+ assignmnt2       extension.sh        mongodata1          r.txt
+ .bash_history    .extension.sh.swp   mongodata2          soorya.txt
+ .bash_logout     factfun.sh          mongodata3          .ssh
+ .bash_profile    factorial.sh        .mongorc.js         subdr.sh
+ .bashrc          .fibo.sh.swp        .mozilla            sum.c
+ .cache           fileoprtor.sh       Music               sumofdigts
+ chng.sh          forfact.sh          .mysql_history      .swp
+ cmp.sh           foundnum           'netwrk lab'         Templates
+ concatenate.c    .git                netwrklab           three.sh
+ .config          .gitconfig          new3.sh             Videos
+ counting         .gitconfig.swp      new4.txt            .viminfo
+ counting.sh      greatest.sh         notes               .vnc
+ count.sh         greeting.sh         output_assignmnt2   .yourflag
+ .dbshell         gretest.sh          output_assignmnt4   .zshrc
+[mca@localhost ~]$ ^C
+[mca@localhost ~]$ 
+
