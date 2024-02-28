@@ -1,0 +1,79 @@
+[mca@localhost ~]$ cd Desktop
+[mca@localhost Desktop]$ ls
+NewDir
+[mca@localhost Desktop]$ ls -al
+total 4
+drwxr-xr-x.  3 mca mca   20 Feb 28 15:56 .
+drwx------. 16 mca mca 4096 Feb 28 14:58 ..
+drwxrwxr-x.  3 mca mca   31 Feb 28 15:59 NewDir
+[mca@localhost Desktop]$ ls -lt
+total 0
+drwxrwxr-x. 3 mca mca 31 Feb 28 15:59 NewDir
+[mca@localhost Desktop]$ cd
+[mca@localhost ~]$ pwd
+/home/mca
+[mca@localhost ~]$ mkdir New
+[mca@localhost ~]$ cd New
+[mca@localhost New]$ cat > fruits.txt
+mango
+apple
+orange
+jasmine
+kiwi
+dates
+pineappke
+grapes
+watermelon
+lemon
+banana
+olive
+apricot
+[mca@localhost New]$ more fruits.txt
+mango
+apple
+orange
+jasmine
+kiwi
+dates
+pineappke
+grapes
+watermelon
+lemon
+banana
+olive
+apricot
+[mca@localhost New]$ head fruits.txt
+mango
+apple
+orange
+jasmine
+kiwi
+dates
+pineappke
+grapes
+watermelon
+lemon
+[mca@localhost New]$ tail fruits.txt
+jasmine
+kiwi
+dates
+pineappke
+grapes
+watermelon
+lemon
+banana
+olive
+apricot
+[mca@localhost New]$ tail -f fruits.txt
+jasmine
+kiwi
+dates
+pineappke
+grapes
+watermelon
+lemon
+banana
+olive
+apricot
+
+
